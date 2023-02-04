@@ -26,7 +26,7 @@ PURPLE='\033[0;35m'
 CYAN='\033[0;36m'
 LIGHT='\033[0;37m'
 # EXP
-Exp=$(curl -sS https://arlanstore.github.io/izin | grep $MYIP | awk '{print $3}')
+Exp=$(curl -sS https://arlanstore.github.io/vip/izin | grep $MYIP | awk '{print $3}')
 # INFO SERVER 
 ISP=$(curl -s ipinfo.io/org | cut -d " " -f 2-10 )
 CITY=$(curl -s ipinfo.io/city )
