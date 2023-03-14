@@ -1,50 +1,297 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/metalink)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/metalink?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/metalink?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/cn4gx0z9EKE?style=social)](https://youtu.be/cn4gx0z9EKE)
+Metalink - Discover rate collection or Arts & NFTs
 
-  <br />
-  <br />
+This is a NFT html template made by codewithsadee
 
-  <h2 align="center">Metalink - NFT Website</h2>
 
-  Metalink is a fully responsive nft website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/metalink/"><strong>➥ Live Demo</strong></a>
+#---------- HEADER ----------#
 
-</div>
+alt = Metalink home
 
-<br />
+Home
+Explore
+Wallet
+About Us
+Contact
 
-### Demo Screeshots
+aria-label = wallet
+<ion-icon name="wallet-outline"></ion-icon>
 
-![Metalink Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+aria-label = Metalink account: Fiona doe
 
-### Prerequisites
+alt = Fiona doe
 
-Before you begin, ensure you have met the following requirements:
+aria-label = menu toggle
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+<ion-icon name="menu-outline" aria-hidden="true" class="default-icon"></ion-icon>
 
-### Run Locally
+<ion-icon name="close-outline" aria-hidden="true" class="active-icon"></ion-icon>
 
-To run **Metalink** locally, run this command on your git bash:
 
-Linux and macOS:
 
-```bash
-sudo git clone https://github.com/codewithsadee/metalink.git
-```
+#---------- HERO ----------#
 
-Windows:
+Discover rate
+collection or Arts & NFTs
 
-```bash
-git clone https://github.com/codewithsadee/metalink.git
-```
+We are a huge marketplace dedicated to connecting great artists of all Metalink with their fans and unique token collectors!
 
-### Contact
+Explore now
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee)
+
+
+#---------- TOP COLLECTION ----------#
+
+Top Collections
+
+See More
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+alt = Digital Collection
+alt = CutieGirl profile
+<ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+Digital Collection
+
+by @CutieGirl
+25 Items
+
+alt = GIF Collection
+alt = ButterFly profile
+
+GIF Collection
+by @ButterFly
+
+alt = Sports Collection
+alt = NorseQueen profile
+
+Sports Collection
+by @NorseQueen
+
+alt = Photography Collection
+alt = BigBull profile
+
+Photography Collection
+by @BigBull
+
+alt = Illustrations Collection
+alt = Angel profile
+
+Illustrations Collection
+by @Angel
+
+alt = Animations Collection
+alt = CrazyAnyone profile
+
+Animations Collection
+by @CrazyAnyone
+
+aria-label = Slide to previous item
+<ion-icon name="chevron-back-sharp" aria-hidden="true"></ion-icon>
+
+aria-label = Slide to next item
+<ion-icon name="chevron-forward-sharp" aria-hidden="true"></ion-icon>
+
+See More
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- DISCOVER ITEM ----------#
+
+Discover Items
+
+alt = Genuine Undead #3902
+
+<ion-icon name="flash" aria-hidden="true"></ion-icon>
+Place Bid
+
+alt = StreetBoy profile
+@StreetBoy
+
+Genuine Undead #3902
+
+Price
+alt = ethereum icon
+3.5 ETH
+
+Highest Bid
+3.55 ETH
+
+
+alt = Windchime #768
+
+<ion-icon name="time-outline" aria-hidden="true"></ion-icon>
+5d 04h 18m 04s
+
+alt = CutieGirl profile
+@CutieGirl
+Windchime #768
+
+alt = Probably A Label #3277
+alt = ButterFly profile
+@ButterFly
+Probably A Label #3277
+
+alt = Probably A Label #1711
+alt = NorseQueen profile
+@NorseQueen
+Probably A Label #1711
+
+alt = Shibuya Scramble Punks
+alt = BigBull profile
+@BigBull
+Shibuya Scramble Punks
+
+alt = Probably A Label #650
+alt = Angel profile
+@Angel
+Probably A Label #650
+
+alt = Looki #0147
+10d 23h 24m 10s
+alt = CrazyAnyone profile
+@CrazyAnyone
+Looki #0147
+
+alt = Poob #285
+alt = Princess profile
+@Princess
+Poob #285
+
+Explore More
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- SELLERS ----------#
+
+Best Creators & Sellers
+
+alt = Steven Townsend profile
+<ion-icon name="checkmark-circle"></ion-icon>
+
+Steven Townsend
+@StreetBoy
+
+aria-label = Hire Steven Townsend
+<ion-icon name="person-add-outline" aria-hidden="true"></ion-icon>
+
+Tiffany Betancourt
+@CutieGirl
+
+Jacqueline Burns
+@ButterFly
+
+Mari Harrington
+@NorseQueen
+
+Floyd Glasgow
+@BigBull
+
+Donna Schultz
+@Angel
+
+Joshua Morris
+@CrazyAnyone
+
+Rosaria Vargas
+@Princess
+
+Carl Williams
+@LooserBad
+
+
+
+#---------- Q&A ----------#
+
+Q&A
+
+We are a huge marketplace dedicated to connecting great artists of all Metalink with their fans and unique token collectors!
+
+How does it work ?
+<ion-icon name="chevron-down" aria-hidden="true"></ion-icon>
+
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.
+
+Do I need a designer to use Metalink ?
+
+What do I need to do to start selling ?
+
+What happens when I receive an order ?
+
+
+
+#---------- CONTACT ----------#
+
+Have Question ? Get in touch!
+
+We are a huge marketplace dedicated to connecting great artists of all Metalink with their fans and unique token collectors!
+
+<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
+Contact us
+
+
+
+#---------- NEWSLETTER ----------#
+
+Subscribe to Newsletter!
+Subscribe to get latest updates and information.
+
+Enter your email :
+
+Subscribe
+
+<ion-icon name="mail-open-outline" aria-hidden="true" class="bg-icon"></ion-icon>
+
+<ion-icon name="document-text-outline" aria-hidden="true" class="bg-icon"></ion-icon>
+
+
+
+#---------- FOOTER ----------#
+
+alt = Metalink home
+
+Buy, sell and discover exclusive digital assets by the top artists of NFTs world.
+
+Metalink
+
+<ion-icon name="chevron-forward"></ion-icon>
+Explore Item
+
+Live Auction
+Activities
+Wallets
+Creators
+
+Useful Links
+
+About Us
+Blog & News
+Terms & Condition
+Privacy policy
+Login
+Contact Us
+
+Download the Metalink app
+
+alt = Download Metalink app from AppStore
+alt = Download Metalink app from PlayStore
+
+Contact Details
+
+<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+metalink@nft.com
+
+<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
++111 234-567-891
+
+&copy; 2022 Metalink. Developed with ❤ by codewithsadee.
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+
+<ion-icon name="arrow-up" aria-hidden="true"></ion-icon>
